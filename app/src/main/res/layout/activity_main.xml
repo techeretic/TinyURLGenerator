@@ -40,7 +40,5 @@
         android:gravity="top|start"
         android:isScrollContainer="true"
         android:scrollbars = "vertical"
-        android:autoLink="web"
-        android:linksClickable="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 </RelativeLayout>
